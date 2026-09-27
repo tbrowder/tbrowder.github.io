@@ -6,4 +6,4 @@ markdown: kramdown
 
 theme: minima
 
-permalink' /:year/:month/:day/:title
+permalink' /:title
