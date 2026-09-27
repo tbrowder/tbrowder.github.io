@@ -1,9 +1,9 @@
 title: Raku Ramblings
-description: Notes on Raku, Linux, PFF, and whatever else seems interesting.
+description: Notes on Raku, Linux, PDF, and whatever else seems interesting.
 url: "https://raku-ramblings.blog"
 
 markdown: kramdown
 
 theme: minima
 
-permalink' /:title
+permalink: /:title/

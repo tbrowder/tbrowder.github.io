@@ -5,4 +5,4 @@ title: Raku Ramblings
 
 # Raku Ramblings 
 
-Notes on Raku, Linux, PFF, and whatever else seems interesting.
+Notes on Raku, Linux, PDF, and whatever else seems interesting.
