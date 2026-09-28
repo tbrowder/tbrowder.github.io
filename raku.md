@@ -23,6 +23,6 @@ Checkwriter, are written in Raku.
 **A Brief Introduction to Raku**
 
 For readers who are unfamiliar with the language, I maintain
-a short slide introducing the language along with Linux.
+a short slide show introducing the language along with Linux.
 
-For more about Raku and its community, visit [Raku.org](https://raku.org)
+For more about Raku and its community, visit [Raku.org](https://raku.org).
