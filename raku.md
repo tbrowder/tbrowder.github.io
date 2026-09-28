@@ -1,3 +1,8 @@
+---
+layouut: page
+title: About Raku
+permalink: /raku/
+
 **What is Raku?**
 
 **Raku** is a modern, expressive, general purpose programming language.
