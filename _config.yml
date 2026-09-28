@@ -7,3 +7,7 @@ markdown: kramdown
 theme: minima
 
 permalink: /:title/
+
+header_pages:
+  - raku.md
+  - about.md
