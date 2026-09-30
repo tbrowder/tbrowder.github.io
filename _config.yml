@@ -11,6 +11,7 @@ permalink: /:title/
 header_pages:
   - raku.md
   - about.md
+  - linux.md
 
 sass:
   style: compressed---
