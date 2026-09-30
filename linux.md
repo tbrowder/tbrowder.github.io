@@ -6,4 +6,4 @@ permalink: /linux/
 
 **Why Linux?**
 
-See the slide presentation at (linux).
+See the slide presentation [Why Linux?](/assets/pdf/why-linux.pdf).
