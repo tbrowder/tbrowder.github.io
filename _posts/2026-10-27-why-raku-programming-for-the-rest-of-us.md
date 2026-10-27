@@ -3,6 +3,7 @@ layout: post
 title: "Why Raku? Programming for the Rest of Us"
 date: 2026-10-27
 categories: [raku, programming]
+published: false
 ---
 
 *Part 1 of 2: An invitation to program, whether or not you want a programming career.*

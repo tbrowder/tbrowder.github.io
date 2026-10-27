@@ -3,6 +3,7 @@ layout: post
 title: "Can Raku Make Business Sense?"
 date: 2026-10-27
 categories: [raku, programming, business]
+published: false
 ---
 
 *Part 2 of 2: When an employer might choose Raku instead of Python—and when not to.*
